@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69b3aa68.css",
+    "main.js": "/static/js/main.e422a0c2.js",
+    "static/js/787.9cce589f.chunk.js": "/static/js/787.9cce589f.chunk.js",
+    "static/media/icons.svg?hvxb6s": "/static/media/icons.41ce9cb75a389b62770e.svg",
+    "static/media/banner.png": "/static/media/banner.57b2ac09095dbd3de94a.png",
+    "static/media/letteringBack.png": "/static/media/letteringBack.fac8e0d3b5cb01730c3b.png",
+    "static/media/icons.eot?hvxb6s": "/static/media/icons.7e47a5af7438bc3f6d76.eot",
+    "static/media/icons.woff?hvxb6s": "/static/media/icons.31a14b8db7032cb40c3f.woff",
+    "static/media/icons.ttf?hvxb6s": "/static/media/icons.34fb2b30555330666681.ttf",
+    "static/media/vape.png": "/static/media/vape.ea14a64a8e307062d2ba.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.69b3aa68.css.map": "/static/css/main.69b3aa68.css.map",
+    "main.e422a0c2.js.map": "/static/js/main.e422a0c2.js.map",
+    "787.9cce589f.chunk.js.map": "/static/js/787.9cce589f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b3aa68.css",
+    "static/js/main.e422a0c2.js"
+  ]
+}
